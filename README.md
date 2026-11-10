@@ -8,8 +8,13 @@ Skill compartible para crear rutinas de fuerza orientadas a la salud y la gananc
 - Vista de sesión con ejercicios, series, repeticiones, esfuerzo, descansos y registro de lo realizado.
 - Seguimiento de cargas, sensaciones y molestias para revisar el plan sin perder el historial.
 - Personalización de la experiencia dentro de Codex y uso opcional de una hoja en Google Drive.
+- Creación y modificación de mesociclos con duración, prioridades y estrategias de progresión adaptadas a cada persona.
+- Cálculo de cargas y repeticiones al iniciar la sesión, consultando la ejecución anterior en Drive y el esfuerzo previsto para ese día.
+- Detección del final del bloque durante las interacciones, balance de resultados y preguntas breves para preparar el siguiente mesociclo.
 
 La skill no incorpora perfiles personales ni conecta por sí sola una cuenta de Drive. Cada usuario decide qué datos comparte y dónde guarda su registro.
+
+Funciona de forma nativa en Codex. Cada proceso se activa por lo que pide la persona o por el estado del mesociclo, sin un asistente obligatorio. Al acabar un entrenamiento no genera de antemano la siguiente semana: concreta los objetivos cuando comienza la sesión correspondiente. Drive conserva el registro; la skill no crea una base de datos paralela ni vigila entrenamientos fuera de las interacciones.
 
 ## Instalación
 
@@ -22,6 +27,12 @@ Invócala con `$app-codex-gym-tracker`, por ejemplo:
 > Ayúdame a crear una rutina de fuerza de tres días. Pregúntame primero lo necesario para adaptarla a mi situación.
 
 > Muéstrame la sesión de hoy y ayúdame a registrar cada serie.
+
+> Hoy empiezo pierna. Revisa lo que hice la semana pasada y dame los objetivos de hoy.
+
+> He terminado el mesociclo. Analiza dónde he progresado y pregúntame lo necesario para preparar el siguiente.
+
+> Durante el resto del bloque solo tengo tres días. Adapta las sesiones a esa disponibilidad.
 
 > Quiero llevar el seguimiento en una hoja de Drive. Revisa antes si ya tengo una plantilla.
 

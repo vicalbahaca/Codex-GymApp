@@ -2,6 +2,8 @@
 
 Cuando el usuario quiera almacenar o sincronizar el plan en Drive, descubre los conectores y capacidades disponibles. Si la cuenta no está conectada, solicita la conexión desde Codex. No pidas credenciales por chat ni incluyas correo, ID de Drive, ruta o enlace de una persona en esta skill.
 
+Con el seguimiento en Drive ya acordado, úsalo como fuente de verdad para el plan y los resultados al iniciar sesiones y revisar bloques. Reutiliza la autorización vigente para esas operaciones, sin pedir otra vez acceso por cada sesión. No mantengas un segundo historial en la skill ni supongas memoria persistente del chat. El cálculo de objetivos ocurre al iniciar la sesión, no al cerrar la anterior.
+
 1. Busca si el usuario ya tiene una hoja de entrenamiento y pide cuál usar solo si hay varias candidatas. Lee estructura, fórmulas, validaciones, nombres de pestañas y ejemplos antes de editar. Conserva el formato que funciona, salvo que el usuario prefiera otro.
 2. Si se crea una hoja nueva, propone una estructura adaptable: perfil/preferencias opcionales, plan vigente, catálogo de ejercicios, registro por serie y resumen de progreso. Permite empezar con menos pestañas si resulta más práctico.
 3. Usa unidades explícitas, fechas inequívocas y un identificador estable para sesión/ejercicio. Diferencia valores planificados y realizados; no sustituyas históricos al reprogramar.

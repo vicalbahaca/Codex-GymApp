@@ -1,6 +1,6 @@
 ---
 name: app-codex-gym-tracker
-description: Diseña y acompaña planes personalizados de fuerza e hipertrofia, registra sesiones y progreso en Codex, y sincroniza una hoja de cálculo en Drive cuando el usuario lo pide. Usar para crear una rutina, entrenar con seguimiento diario o definir la experiencia de una app de gimnasio dentro de Codex.
+description: Crea, revisa y renueva mesociclos de fuerza e hipertrofia dentro de Codex. Ajusta la sesión al iniciarla usando los resultados de Drive y detecta el cierre del bloque para analizarlo y planificar el siguiente. Usar para crear rutinas, modificar un mesociclo o entrenar con progresión personalizada.
 ---
 
 # App Codex Gym Tracker
@@ -9,10 +9,13 @@ Ayuda a una persona concreta a entrenar fuerza para mejorar su salud y, si lo de
 
 ## Elegir recorrido
 
-- **Alta o rediseño de rutina:** lee [references/entrevista-y-programacion.md](references/entrevista-y-programacion.md) y [references/evidencia.md](references/evidencia.md). Pregunta por el contexto esencial antes de prescribir. Si ya hay respuestas en la conversación o una fuente autorizada, reutilízalas.
-- **Sesión y seguimiento:** lee [references/seguimiento-y-producto.md](references/seguimiento-y-producto.md). Usa el plan y el historial reales del usuario; si faltan, pide solo los datos necesarios para empezar. Registra lo hecho, no lo previsto como si estuviera completado.
+Actúa de forma nativa en Codex. Elige el proceso por la intención y el estado real del entrenamiento; no obligues a recorrer un asistente ni a completar un cuestionario para una consulta puntual. Reutiliza respuestas conocidas. La proactividad ocurre durante las interacciones, sin prometer vigilancia en segundo plano.
+
+- **Crear, modificar o renovar un mesociclo:** lee [references/mesociclos.md](references/mesociclos.md), [references/entrevista-y-programacion.md](references/entrevista-y-programacion.md) y [references/evidencia.md](references/evidencia.md). Pregunta solo por datos que cambien el plan.
+- **Empezar una sesión o consultar qué toca hoy:** lee [references/progresion-al-iniciar.md](references/progresion-al-iniciar.md) y [references/seguimiento-y-producto.md](references/seguimiento-y-producto.md). Consulta Drive y calcula los objetivos actuales a partir de la ejecución anterior comparable, sin exigir una petición adicional de cálculo.
+- **Terminar una sesión o pedir revisión:** registra lo realizado según la autorización vigente; comprueba si termina la semana o el bloque. Lee [references/mesociclos.md](references/mesociclos.md) para activar una revisión útil o el cierre del mesociclo. No generes por defecto la siguiente sesión ni una semana completa al terminar.
 - **Hoja o Drive:** lee [references/hoja-y-drive.md](references/hoja-y-drive.md). Usa los conectores disponibles y solicita conexión cuando falte. No supongas una cuenta, dirección, archivo ni permiso.
-- **Construcción o personalización de la app en Codex:** lee [references/seguimiento-y-producto.md](references/seguimiento-y-producto.md). Primero recoge preferencias sobre la experiencia y revisa las especificaciones o componentes existentes si están disponibles. No inventes que existe un paquete global cuando no se ha encontrado.
+- **Personalización dentro de Codex:** lee [references/seguimiento-y-producto.md](references/seguimiento-y-producto.md). Ajusta tablas, formularios y nivel de detalle a las preferencias. Esta skill no requiere desarrollar ni desplegar una aplicación externa.
 
 ## Decisiones constantes
 

@@ -4,7 +4,7 @@
 
 Pregunta qué quiere ver y registrar la persona, qué le resulta pesado y en qué dispositivo entrenará. Ofrece una configuración mínima y opciones para ampliar: vista por sesión o semana, unidades, ejercicios alternativos, temporizador de descanso, notas, tendencias y recordatorios. Conserva sus preferencias en una fuente accesible solo para ella y con su autorización. Si no hay persistencia disponible, explica el límite y entrega un formato portable.
 
-Si se implementa una interfaz, revisa primero el producto, componentes y especificaciones existentes. Construye una pantalla de uso real: legible durante una sesión, rápida para registrar una serie y fácil de corregir. Evita datos o mensajes de una persona concreta en la skill o en el producto genérico.
+Presenta la experiencia dentro de Codex mediante conversación, tablas y formularios disponibles. Adapta su densidad y orden al usuario; no conviertas la petición de una rutina en un proyecto de desarrollo de una aplicación externa.
 
 ## Vista de sesión
 
@@ -12,11 +12,11 @@ Si se implementa una interfaz, revisa primero el producto, componentes y especif
 - Lista ordenada de ejercicios: series objetivo, repeticiones, carga sugerida basada en último registro, esfuerzo objetivo, descanso, instrucciones técnicas y sustitución.
 - Registro por serie con campos de carga, repeticiones, RIR/RPE opcional y completado. Permite añadir, editar, omitir o sustituir series sin perder el plan original.
 - Formulario breve de sensaciones: energía, molestias localizadas, dificultad, tiempo real y nota libre. Pregunta solo lo útil para ajustar la siguiente sesión.
-- Cierre: resumen de lo completado y una recomendación concreta para la próxima sesión. Señala incertidumbre cuando el historial es escaso.
+- Cierre: resumen de lo completado e incidencias relevantes. Comprueba si corresponde revisar o cerrar el mesociclo según [mesociclos.md](mesociclos.md). Los objetivos de la siguiente sesión se calculan al iniciarla, según [progresion-al-iniciar.md](progresion-al-iniciar.md).
 
 ## Modelo mínimo de datos
 
-Mantén separados **perfil**, **preferencias**, **plan versionado**, **sesiones realizadas** y **observaciones**. Cada serie realizada debe vincularse a fecha, sesión, ejercicio y unidad de carga. Conserva la distinción entre prescripción y ejecución para no sobrescribir el historial al cambiar una rutina. Guarda solo información necesaria; trata salud y molestias como datos sensibles.
+Usa el perfil, preferencias, plan, resultados y observaciones de Drive. Mantén la distinción entre prescripción y ejecución dentro de su formato existente; cada resultado debe poder asociarse con fecha, sesión, ejercicio y unidad de carga. No crees una base de historial adicional ni guardes datos personales dentro de la skill. Si no existe una fuente accesible, pide lo imprescindible y explica la limitación de continuidad.
 
 ## Revisión
 
