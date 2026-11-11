@@ -11,6 +11,8 @@ Skill compartible para crear rutinas de fuerza orientadas a la salud y la gananc
 - Creación y modificación de mesociclos con duración, prioridades y estrategias de progresión adaptadas a cada persona.
 - Cálculo de cargas y repeticiones al iniciar la sesión, consultando la ejecución anterior en Drive y el esfuerzo previsto para ese día.
 - Detección del final del bloque durante las interacciones, balance de resultados y preguntas breves para preparar el siguiente mesociclo.
+- Registro de series sin duplicados, verificación en Drive y paso directo al siguiente formulario con objetivos ajustados a lo que se acaba de realizar.
+- Revisión de comodidad y técnica aunque el dolor no aumente, y nueva referencia de carga si cambia el funcionamiento del equipo.
 
 La skill no incorpora perfiles personales ni conecta por sí sola una cuenta de Drive. Cada usuario decide qué datos comparte y dónde guarda su registro.
 

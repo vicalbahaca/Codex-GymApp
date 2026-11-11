@@ -13,6 +13,8 @@ No recalcules el bloque completo ni cambies el foco por una sola sesión. Si no 
 - No equipares una serie omitida a un fallo de rendimiento. Distingue falta de registro de omisión confirmada; no completes datos ausentes con ceros.
 - Si cambia el equipo o ejercicio, establece una referencia nueva. Para ejercicios asistidos, menos asistencia aumenta la dificultad; para lastre y peso corporal, distingue sus componentes. No sumes incrementos sin conocer qué representa la cifra.
 - Ante dolor, técnica inválida o datos incoherentes, revisa antes de aumentar exigencia. Con técnica dudosa, interrupciones o fatiga externa, evita interpretar el registro como una medida limpia de capacidad. Una carga diez veces distinta puede ser una errata, no un récord.
+- Lee también comodidad, estabilidad y notas técnicas de la ejecución anterior. Dolor estable o 0/10 no anula una anotación de incomodidad o compensación. Antes de fijar objetivos, haz una pregunta breve sobre esa incidencia y ofrece una alternativa concreta de apoyo, estabilidad o patrón si procede. No fuerces un cuestionario completo ni garantices que una variante elimine la molestia.
+- Una avería, resistencia desigual o reparación de máquina invalida la comparación directa de sus kilos aunque el nombre del ejercicio no cambie. Conserva la incidencia y calibra una nueva referencia válida.
 
 ## Decisión por ejercicio
 
@@ -39,5 +41,7 @@ Si el RIR cambia entre semanas, compara a esfuerzo equivalente y distingue traba
 ## Entrega en Codex
 
 Muestra lo necesario para entrenar: ejercicio, series, carga o regla de calibración, repeticiones, RIR/RPE y descanso. Añade una justificación breve solo para cambios relevantes, datos insuficientes o incidencias. Mantén los ejercicios del plan salvo que el contexto justifique modificarlos.
+
+Los objetivos de series posteriores de hoy son provisionales y se revisan tras cada resultado real según [registro-entre-series.md](registro-entre-series.md). Esto adapta la sesión en curso; no adelanta la preparación de la siguiente sesión ni de otra semana.
 
 Si está autorizada la actualización de objetivos en Drive, escribe únicamente los de la sesión correspondiente y verifica el resultado. Relee la fuente antes de escribir si pudo cambiar; recalcular sobre el mismo registro no debe sumar otra subida al objetivo ya propuesto. El resultado realizado, la fase del bloque y el incremento disponible determinan la propuesta, no el número de veces que se consulta.

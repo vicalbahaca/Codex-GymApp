@@ -11,6 +11,7 @@ Presenta la experiencia dentro de Codex mediante conversación, tablas y formula
 - Encabezado: día, objetivo, duración estimada y estado de la sesión.
 - Lista ordenada de ejercicios: series objetivo, repeticiones, carga sugerida basada en último registro, esfuerzo objetivo, descanso, instrucciones técnicas y sustitución.
 - Registro por serie con campos de carga, repeticiones, RIR/RPE opcional y completado. Permite añadir, editar, omitir o sustituir series sin perder el plan original.
+- Al registrar o continuar, aplica [registro-entre-series.md](registro-entre-series.md): evita duplicados, verifica la escritura y muestra directamente el formulario de la siguiente serie o ejercicio con objetivos ajustados a lo realizado.
 - Formulario breve de sensaciones: energía, molestias localizadas, dificultad, tiempo real y nota libre. Pregunta solo lo útil para ajustar la siguiente sesión.
 - Cierre: resumen de lo completado e incidencias relevantes. Comprueba si corresponde revisar o cerrar el mesociclo según [mesociclos.md](mesociclos.md). Los objetivos de la siguiente sesión se calculan al iniciarla, según [progresion-al-iniciar.md](progresion-al-iniciar.md).
 

@@ -12,3 +12,5 @@ Con el seguimiento en Drive ya acordado, úsalo como fuente de verdad para el pl
 
 No fijes un esquema universal de columnas cuando exista una plantilla útil del usuario. Mantén la personalización de la interfaz y de la hoja independiente de cualquier perfil incluido en otra skill.
 
+Para registrar series y continuar entre chats, aplica [registro-entre-series.md](registro-entre-series.md). Consulta la identidad de la serie antes de insertar, conserva la semana y fecha reales, verifica los valores por lectura y distingue una corrección de un duplicado. Mantén «Sin indicar» en campos no aportados. Las afirmaciones de otros chats sobre escrituras previas no sustituyen la comprobación en Drive.
+
