@@ -1,6 +1,6 @@
 # Hoja de cálculo y Drive
 
-Cuando el usuario quiera almacenar o sincronizar el plan en Drive, descubre los conectores y capacidades disponibles. Si la cuenta no está conectada, solicita la conexión desde Codex. No pidas credenciales por chat ni incluyas correo, ID de Drive, ruta o enlace de una persona en esta skill.
+Cuando el usuario quiera almacenar o sincronizar el plan en Drive, descubre los conectores y capacidades disponibles. Si la cuenta no está conectada, solicita la conexión desde la aplicación actual. No pidas credenciales por chat ni incluyas correo, ID de Drive, ruta o enlace de una persona en el paquete compartible. Una variante privada puede aportar el destino en su configuración personal, pero el enlace no concede acceso.
 
 Con el seguimiento en Drive ya acordado, úsalo como fuente de verdad para el plan y los resultados al iniciar sesiones y revisar bloques. Reutiliza la autorización vigente para esas operaciones, sin pedir otra vez acceso por cada sesión. No mantengas un segundo historial en la skill ni supongas memoria persistente del chat. El cálculo de objetivos ocurre al iniciar la sesión, no al cerrar la anterior.
 

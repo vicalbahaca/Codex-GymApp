@@ -1,5 +1,5 @@
 interface:
-  display_name: "Codex Gym Tracker"
+  display_name: "App Codex Gym Tracker"
   short_description: "Rutinas de fuerza y seguimiento personalizable"
   default_prompt: "Use $app-codex-gym-tracker to learn my goals and constraints, build a sustainable strength plan, and help me track sessions."
 

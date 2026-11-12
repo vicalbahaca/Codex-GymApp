@@ -4,7 +4,7 @@
 
 Pregunta qué quiere ver y registrar la persona, qué le resulta pesado y en qué dispositivo entrenará. Ofrece una configuración mínima y opciones para ampliar: vista por sesión o semana, unidades, ejercicios alternativos, temporizador de descanso, notas, tendencias y recordatorios. Conserva sus preferencias en una fuente accesible solo para ella y con su autorización. Si no hay persistencia disponible, explica el límite y entrega un formato portable.
 
-Presenta la experiencia dentro de Codex mediante conversación, tablas y formularios disponibles. Adapta su densidad y orden al usuario; no conviertas la petición de una rutina en un proyecto de desarrollo de una aplicación externa.
+Presenta la experiencia dentro de ChatGPT o Codex mediante conversación, tablas y formularios disponibles. Adapta su densidad y orden al usuario y al dispositivo; no conviertas la petición de una rutina en un proyecto de desarrollo de una aplicación externa. Si no hay herramientas de formularios, permite registrar los mismos datos por texto sin simular botones operativos.
 
 ## Vista de sesión
 

@@ -1,0 +1,21 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "app-codex-gym-tracker",
+  "version": "1.1.0",
+  "description": "Rutinas de fuerza e hipertrofia, mesociclos y registro con progresión basada en resultados reales en ChatGPT y Codex.",
+  "author": { "name": "Victor Saiz" },
+  "repository": "https://github.com/vicalbahaca/Codex-GymApp",
+  "extensions": {
+    "com.openai": {
+      "interface": {
+        "displayName": "App Codex Gym Tracker",
+        "shortDescription": "Rutinas y progresión de fuerza",
+        "longDescription": "Crea y adapta mesociclos, calcula objetivos al iniciar cada sesión y registra series con verificación en la hoja que autorice cada usuario. Incluye cierre y renovación de bloques, personalización de formularios y continuidad entre dispositivos. Funciona en el chat; requiere un conector autorizado para leer o editar Drive. No incluye perfiles ni hojas personales.",
+        "developerName": "Victor Saiz",
+        "category": "Productivity",
+        "capabilities": [],
+        "defaultPrompt": "Ayúdame a crear o continuar mi rutina de fuerza y adaptar la sesión a mis resultados."
+      }
+    }
+  }
+}
