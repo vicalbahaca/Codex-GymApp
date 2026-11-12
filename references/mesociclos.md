@@ -11,13 +11,16 @@ Elige el proceso solicitado o sugerido por el estado real del bloque. Una pregun
 3. Asigna volumen y orden según prioridades, frecuencia, recuperación y duración real. Comprueba cobertura de patrones, redundancias, series directas e indirectas y coste de las sesiones. Conserva ejercicios útiles que progresan y se toleran.
 4. Especifica por ejercicio: variante y equipo, función, series y su tipo cuando proceda, rango de repeticiones, esfuerzo objetivo, descanso, calentamiento, indicación técnica, alternativa y estrategia de progresión. Registra el incremento real disponible y si la carga es total, por lado, por mancuerna, lastre o asistencia.
 5. Define la evolución prevista de esfuerzo y volumen por fase. Las cargas iniciales proceden de registros comparables; sin ellos, propone una calibración conservadora. Las cargas posteriores se concretan al iniciar cada sesión con los resultados disponibles.
-6. Entrega un bloque ejecutable, explica sus decisiones principales y guárdalo en la hoja acordada cuando la petición lo autorice. Respeta su formato. No conviertas las previsiones en resultados realizados.
+6. Define cómo se decidirá la progresión y qué señales activarían ajustes locales, de patrón, descarga o renovación aplicando [motor-de-progresion.md](motor-de-progresion.md). No reduzcas el protocolo a sumar una repetición o un porcentaje fijo.
+7. Entrega un bloque ejecutable, explica sus decisiones principales y guárdalo en la hoja acordada cuando la petición lo autorice. Respeta su formato. No conviertas las previsiones en resultados realizados.
 
 ## Modificar un mesociclo en curso
 
-Identifica el motivo: disponibilidad, prioridad, tolerancia, material, duración o rendimiento. Delimita si afecta a un ejercicio, una sesión o al resto del bloque. Cambia lo necesario y vuelve a comprobar volumen, distribución y esfuerzo de lo que queda. No reinicies el bloque ni sustituyas todos los ejercicios por defecto.
+Identifica el motivo: disponibilidad, prioridad, tolerancia, material, duración o rendimiento. Clasifica la señal con [motor-de-progresion.md](motor-de-progresion.md) para distinguir problema de ejercicio, patrón, recuperación general, pausa o final de propósito. Delimita si afecta a una serie, ejercicio, sesión o al resto del bloque. Cambia lo necesario y vuelve a comprobar volumen, distribución y esfuerzo de lo que queda. No reinicies el bloque ni sustituyas todos los ejercicios por defecto.
 
 Una sustitución necesita una nueva referencia de carga si cambia equipo, variante o ejecución. No transfieras automáticamente los kilos. Explica qué cambia, desde cuándo y por qué; conserva los datos realizados en Drive. La autorización para un ajuste concreto no implica cambiar objetivos generales del usuario.
+
+Sugiere una revisión aunque el usuario no use la palabra «mesociclo» cuando varias exposiciones comparables muestran regresión, varios ejercicios del mismo patrón se estancan, la adherencia o disponibilidad cambian de forma sostenida, se acumulan molestias, se supera el período previsto o la pausa vuelve incoherente la estructura. No modifiques silenciosamente el bloque: presenta el diagnóstico breve y la propuesta antes de escribir cambios estructurales.
 
 ## Al terminar una sesión o semana
 
@@ -29,7 +32,7 @@ Comprueba activamente si se han completado las sesiones previstas del bloque o s
 
 Al terminar la última sesión, detectar el final del período durante una interacción o recibir una petición explícita, inicia proactivamente el análisis del bloque y un cuestionario breve adaptado a lo que falta. Si el usuario lo pospone, respétalo. No hace falta esperar una frase exacta de activación.
 
-Usa Drive para comparar inicio y final, evolución intermedia, adherencia, carga/repeticiones con esfuerzo y técnica comparables, tolerancia y duración de las sesiones. Identifica dónde hubo más progreso, dónde hubo estancamiento y dónde faltan datos; no atribuyas ganancia muscular medida a una mera subida de carga o tonelaje. Evita comparar porcentajes entre ejercicios con equipos o escalas de carga distintos.
+Usa Drive para comparar inicio y final, evolución intermedia, adherencia, carga/repeticiones con esfuerzo y técnica comparables, tolerancia y duración de las sesiones. Analiza por ejercicio, patrón/región y estado general. Identifica dónde hubo más progreso, dónde hubo estancamiento y dónde faltan datos; no atribuyas ganancia muscular medida a una mera subida de carga o tonelaje. Evita comparar porcentajes entre ejercicios con equipos o escalas de carga distintos.
 
 Pregunta en tandas breves por:
 

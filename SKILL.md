@@ -1,8 +1,8 @@
 ---
 name: app-codex-gym-tracker
-description: Crea, revisa y renueva mesociclos de fuerza e hipertrofia en ChatGPT o Codex. Ajusta la sesión al iniciarla usando los resultados de Drive. Usar para rutinas y seguimiento personalizable; no contiene ningún perfil personal preconfigurado.
+description: Crea, adapta y renueva mesociclos de fuerza e hipertrofia en ChatGPT o Codex. Decide la sesión y la progresión individual desde el historial de Drive, también tras pausas o estancamientos. Usar para rutinas y seguimiento personalizable; no contiene perfiles preconfigurados.
 metadata:
-  version: "1.1.0"
+  version: "1.2.0"
 ---
 
 # App Codex Gym Tracker
@@ -15,10 +15,10 @@ Actúa de forma nativa en el chat actual, tanto en ChatGPT móvil/web como en Co
 
 Lee [references/continuidad-y-version.md](references/continuidad-y-version.md) al retomar desde otro dispositivo, resolver qué skill se usa o migrar documentos anteriores. Esta es la variante compartible. Si hay una variante personal instalada y elegida para el seguimiento, usa su perfil y sus referencias sin duplicar procesos ni registros. No busques ni importes datos personales ajenos a la petición.
 
-- **Crear, modificar o renovar un mesociclo:** lee [references/mesociclos.md](references/mesociclos.md), [references/entrevista-y-programacion.md](references/entrevista-y-programacion.md) y [references/evidencia.md](references/evidencia.md). Pregunta solo por datos que cambien el plan.
-- **Empezar una sesión o consultar qué toca hoy:** lee [references/progresion-al-iniciar.md](references/progresion-al-iniciar.md) y [references/seguimiento-y-producto.md](references/seguimiento-y-producto.md). Consulta Drive y calcula los objetivos actuales a partir de la ejecución anterior comparable, sin exigir una petición adicional de cálculo.
+- **Crear, modificar o renovar un mesociclo:** lee [references/mesociclos.md](references/mesociclos.md), [references/motor-de-progresion.md](references/motor-de-progresion.md), [references/entrevista-y-programacion.md](references/entrevista-y-programacion.md) y [references/evidencia.md](references/evidencia.md). Pregunta solo por datos que cambien el plan.
+- **Empezar una sesión o consultar qué toca hoy:** lee [references/progresion-al-iniciar.md](references/progresion-al-iniciar.md), [references/motor-de-progresion.md](references/motor-de-progresion.md) y [references/seguimiento-y-producto.md](references/seguimiento-y-producto.md). Consulta Drive, identifica la última sesión real y decide si procede continuar, reordenar o hacer una reentrada antes de calcular objetivos.
 - **Registrar una serie, continuar o pedir el siguiente formulario:** lee [references/registro-entre-series.md](references/registro-entre-series.md). Guarda y verifica la ejecución real sin duplicados, ajusta la siguiente serie de la sesión actual y muestra el formulario correspondiente.
-- **Terminar una sesión o pedir revisión:** registra lo realizado según la autorización vigente; comprueba si termina la semana o el bloque. Lee [references/mesociclos.md](references/mesociclos.md) para activar una revisión útil o el cierre del mesociclo. No generes por defecto la siguiente sesión ni una semana completa al terminar.
+- **Terminar una sesión o pedir revisión:** registra el feedback final, verifica lo realizado y muestra un resumen ejecutivo breve. Comprueba si termina la semana o el bloque. Lee [references/mesociclos.md](references/mesociclos.md) y [references/motor-de-progresion.md](references/motor-de-progresion.md) para activar una revisión útil o el cierre. No generes por defecto la siguiente sesión ni una semana completa al terminar.
 - **Hoja o Drive:** lee [references/hoja-y-drive.md](references/hoja-y-drive.md). Usa los conectores disponibles y solicita conexión cuando falte. No supongas una cuenta, dirección, archivo ni permiso.
 - **Personalización de la experiencia:** lee [references/seguimiento-y-producto.md](references/seguimiento-y-producto.md). Ajusta tablas, formularios y nivel de detalle al dispositivo y a las preferencias. Esta skill no requiere desarrollar ni desplegar una aplicación externa.
 

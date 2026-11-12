@@ -4,7 +4,7 @@ Skill compartible para crear rutinas de fuerza orientadas a la salud y la gananc
 
 ## Qué incluye
 
-- Planificación de fuerza e hipertrofia basada en evidencia, con progresión y ajustes según tolerancia y adherencia.
+- Planificación basada en evidencia con un motor de progresión que analiza persona, patrón, ejercicio y sesión antes de ajustar carga, repeticiones, volumen, rango, frecuencia u orden.
 - Vista de sesión con ejercicios, series, repeticiones, esfuerzo, descansos y registro de lo realizado.
 - Seguimiento de cargas, sensaciones y molestias para revisar el plan sin perder el historial.
 - Personalización de la experiencia dentro de ChatGPT o Codex y uso opcional de una hoja en Google Drive.
@@ -13,6 +13,8 @@ Skill compartible para crear rutinas de fuerza orientadas a la salud y la gananc
 - Detección del final del bloque durante las interacciones, balance de resultados y preguntas breves para preparar el siguiente mesociclo.
 - Registro de series sin duplicados, verificación en Drive y paso directo al siguiente formulario con objetivos ajustados a lo que se acaba de realizar.
 - Revisión de comodidad y técnica aunque el dolor no aumente, y nueva referencia de carga si cambia el funcionamiento del equipo.
+- Selección de la sesión después de pausas o semanas incompletas, con reentrada progresiva cuando corresponda en lugar de juntar entrenamientos por defecto.
+- Formulario serie a serie y cierre con feedback, métricas comparables y resumen ejecutivo opcionalmente gamificado.
 
 La skill no incorpora perfiles personales ni conecta por sí sola una cuenta de Drive. Cada usuario decide qué datos comparte y dónde guarda su registro.
 
@@ -26,7 +28,7 @@ Esta instalación es local. Subir el código a GitHub tampoco instala la skill e
 
 ## Paquete para ChatGPT y otros dispositivos
 
-Versión actual: **1.1.0**. El repositorio conserva la skill en la raíz para la instalación local. El empaquetador genera un complemento portable con `plugin.json` en la raíz y la skill completa en `skills/app-codex-gym-tracker/`:
+Versión actual: **1.2.0**. El repositorio conserva la skill en la raíz para la instalación local. El empaquetador genera un complemento portable con `plugin.json` en la raíz y la skill completa en `skills/app-codex-gym-tracker/`:
 
 ```powershell
 ./scripts/package-plugin.ps1 -OutputDirectory "$env:TEMP/gym-tracker-packages"

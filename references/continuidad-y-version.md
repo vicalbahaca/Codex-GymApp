@@ -1,6 +1,6 @@
 # Continuidad entre dispositivos y versión
 
-Versión del núcleo de seguimiento: **1.1.0** (12/11/2026).
+Versión del núcleo de seguimiento: **1.2.0** (12/11/2026).
 
 ## Identidad y disponibilidad
 

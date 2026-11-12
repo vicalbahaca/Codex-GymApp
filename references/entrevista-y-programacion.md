@@ -19,7 +19,7 @@ Si hay información suficiente para una primera versión, propón el plan e iden
 - Cubre patrones de empuje, tracción, dominante de rodilla, dominante de cadera y core según objetivo, movilidad y tolerancia. La selección concreta responde al equipo, técnica, preferencia y respuesta individual.
 - Para cada ejercicio: propósito, series, rango de repeticiones, carga inicial orientativa o regla para elegirla, RIR/RPE o esfuerzo percibido, descanso, instrucciones técnicas breves, sustitución y criterio de progresión.
 - Empieza con una dosis manejable. Incrementa volumen o intensidad solo si progreso, recuperación y adherencia lo justifican. Separa series directas e indirectas cuando analices volumen muscular.
-- Define la estrategia de progresión al crear el bloque y calcula los objetivos al iniciar cada sesión según [progresion-al-iniciar.md](progresion-al-iniciar.md). Valora carga, repeticiones, técnica y esfuerzo conjuntamente; respeta el incremento real del equipo y la fase del bloque.
+- Define la estrategia de progresión al crear el bloque y calcula los objetivos al iniciar cada sesión según [progresion-al-iniciar.md](progresion-al-iniciar.md) y [motor-de-progresion.md](motor-de-progresion.md). Valora el ejercicio, su patrón y la respuesta general; carga, repeticiones, series, rango, frecuencia y orden son palancas, no escalones obligatorios.
 - Reserva el fallo muscular para situaciones apropiadas y seguras; no lo impongas. Evita máximos y test de 1RM cuando no aporten al objetivo o al perfil.
 - Planifica revisión periódica según datos reales. Una descarga o reducción de carga/volumen responde a fatiga, rendimiento y contexto; no es un calendario obligatorio.
 
